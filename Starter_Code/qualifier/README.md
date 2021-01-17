@@ -44,24 +44,15 @@ from qualifier.filters.debt_to_income import filter_debt_to_income
 
 from qualifier.filters.loan_to_value import filter_loan_to_value
 ```
- if len(bank_data_filtered) == 0:
-         sys.exit('We could not find any willing banks')
-         return bank_data_filtered
 
----
-
-## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
-
----
 
 ## Contributors
 
-In this section, list all the people who contribute to this project; since you may want to be reached by recruiters or potential collaborators, include your contact e-mail, and optionally your LinkedIn or Twitter profile.
+** This Loan Qualifier app was cntributed to by the entire UC Berkeley FinTech BootCamp 
+[UC Berkeley Extension](https://bootcamp.berkeley.edu/fintech/)
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify others what they can and can not do with your source code and files. Use this section to include the licence you want to use.
+This is a open source project take it and improve it 10000 X
